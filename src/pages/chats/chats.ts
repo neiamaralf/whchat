@@ -32,7 +32,7 @@ export class ChatsPage {
           text: 'Cancelar',
           role: 'cancel',
           handler: () => {
-          }
+          } 
         },
         {
           text: 'Excluir',
